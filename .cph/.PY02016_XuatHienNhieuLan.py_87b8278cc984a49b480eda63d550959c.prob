@@ -1,0 +1,1 @@
+{"name":"Local: PY02016_XuatHienNhieuLan","url":"d:\\CODE\\Python\\PY02016_XuatHienNhieuLan.py","tests":[{"id":1724778220401,"input":"2\n9\n3 3 4 2 4 4 2 4 4\n8\n3 3 4 2 4 4 2 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODE\\Python\\PY02016_XuatHienNhieuLan.py","group":"local","local":true}

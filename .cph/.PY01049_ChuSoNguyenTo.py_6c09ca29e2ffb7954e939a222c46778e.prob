@@ -1,0 +1,1 @@
+{"name":"Local: PY01049_ChuSoNguyenTo","url":"d:\\CODE\\Python\\PY01049_ChuSoNguyenTo.py","tests":[{"id":1724240323931,"input":"3\n1234567\n22334455667\n23400300489898989","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODE\\Python\\PY01049_ChuSoNguyenTo.py","group":"local","local":true}
